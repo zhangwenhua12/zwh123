@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-fileupload-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/dom4j-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/jstl-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/standard-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

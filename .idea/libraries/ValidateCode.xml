@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ValidateCode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/stuprodeo_war_exploded/WEB-INF/lib/ValidateCode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
